@@ -1,1 +1,2 @@
 Hello Kasahun. Welcome to Git
+This is the second test from Git
