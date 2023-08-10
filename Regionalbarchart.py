@@ -29,4 +29,4 @@ def display_time_series(ticker):
     return fig
 if __name__ == "__main__":
     #app.run_server(debug=True)
-    app.run_server(port = 9045, debug=True)
+    app.run_server(port = 9033, debug=True)
